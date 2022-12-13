@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Merkur1y/AndroidStudioProjects/Taxi_Android/app/src/main/res/layout/activity_driver.xml" value="0.22" />
+        <entry key="..\:/Users/Merkur1y/AndroidStudioProjects/Taxi_Android/app/src/main/res/layout/activity_form1.xml" value="0.1" />
+        <entry key="..\:/Users/Merkur1y/AndroidStudioProjects/Taxi_Android/app/src/main/res/layout/activity_form2.xml" value="0.1" />
+        <entry key="..\:/Users/Merkur1y/AndroidStudioProjects/Taxi_Android/app/src/main/res/layout/activity_form3.xml" value="0.1" />
+        <entry key="..\:/Users/Merkur1y/AndroidStudioProjects/Taxi_Android/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Users/Merkur1y/AndroidStudioProjects/Taxi_Android/app/src/main/res/layout/activity_okno_2.xml" value="0.1" />
+        <entry key="..\:/Users/Merkur1y/AndroidStudioProjects/Taxi_Android/app/src/main/res/layout/activity_okno_3.xml" value="0.1" />
+        <entry key="..\:/Users/Merkur1y/AndroidStudioProjects/Taxi_Android/app/src/main/res/layout/activity_okno_4.xml" value="0.1" />
+        <entry key="..\:/Users/Merkur1y/AndroidStudioProjects/Taxi_Android/app/src/main/res/layout/activity_okno_5.xml" value="0.1" />
+        <entry key="..\:/Users/Merkur1y/AndroidStudioProjects/Taxi_Android/app/src/main/res/layout/activity_okno_6.xml" value="0.1" />
+        <entry key="..\:/Users/Merkur1y/AndroidStudioProjects/Taxi_Android/app/src/main/res/layout/activity_okno_7.xml" value="0.1" />
+        <entry key="..\:/Users/Merkur1y/AndroidStudioProjects/Taxi_Android/app/src/main/res/layout/activity_okno_8.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
